@@ -15,11 +15,11 @@ DISCLAIMER:
 
 Update 1.19
 
- 1/ Update for Delphi 10.3 Tokyo
+ 1/ Update for Delphi 10.3 Rio
 _______________________________________________________________________________
 Update 1.18
 
- 1/ Update for Delphi 10.2 Rio
+ 1/ Update for Delphi 10.2 Tokyo
 _______________________________________________________________________________
 Update 1.17
 
